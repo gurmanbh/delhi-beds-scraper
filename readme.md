@@ -1,4 +1,4 @@
-#Delhi beds scraper
+# Delhi beds scraper
 
 Scrapes information from the Delhi Government COVID website every hour, and stores in the `data/beds` folder in the repository.
 
