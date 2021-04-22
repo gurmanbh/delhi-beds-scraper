@@ -80,12 +80,23 @@ const writeCSV = async(merged, last_updated_at) => {
 		}
 		data.push(o)
 	}
+	data = data.sort((a,b)=>compare(a,b,'name'))
 	io.writeDataSync(`data/beds/${convertTimeOuter(last_updated_at)}.csv`, data)
 	combine('./data/beds/', './data/beds-combined.csv')
 }
 
 function convertTime(time){
 	return format(parse(time))
+}
+
+function compare( a, b, variable) {
+  if ( a[variable] < b[variable] ){
+    return -1;
+  }
+  if ( a[variable] > b[variable] ){
+    return 1;
+  }
+  return 0;
 }
 
 function convertTimeOuter(time){
