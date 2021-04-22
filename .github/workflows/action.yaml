@@ -20,3 +20,12 @@ jobs:
         node-version: '12.x'
     - run: npm install
     - run: npm run scrape
+
+  update:
+    name: push changes to remote
+    - run: |
+        git config user.name gurmanbh
+        git config user.email gurmabh@gmail.com
+        git add .
+        git commit --allow-empty -m "Database upadated"
+        git push origin master
