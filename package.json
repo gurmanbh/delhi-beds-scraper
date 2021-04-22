@@ -8,8 +8,6 @@
     "scrape": "node index.js",
     "commit": "git commit -m 'Update'",
     "push": "git push --set-upstream origin master"
-
-
   },
   "author": "",
   "license": "ISC",
