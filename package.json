@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "scrape": "node index.js",
-    "commit": "git commit -m 'Update'",
-    "push": "git push --set-upstream origin master"
+    "scrape": "node index.js"
   },
   "author": "",
   "license": "ISC",

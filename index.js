@@ -7,8 +7,6 @@ const parse = time.timeParse('%I:%M %p, %B %e')
 const format = time.timeFormat("%2021-%m-%d-%H-%M")
 const parseOuter = time.timeParse('%I:%M %p, %e %B %Y')
 
-// const https = require('https')
-
 const fetchData = require('./lib/getUrl');
 const combine = require('./lib/combine');
 
@@ -76,13 +74,13 @@ const writeCSV = async(merged, last_updated_at) => {
 			}
 		}
 		if (key=='All'){
-			o['last_updated_at']=last_updated_at
+			o['last_updated_at'] = format(parseOuter(last_updated_at))
 		}
 		data.push(o)
 	}
 	
 	io.writeDataSync(`data/beds/${convertTimeOuter(last_updated_at)}.csv`, data)
-	combine('./data/beds/', './data/beds-combined.csv')
+	combine('./data/beds/', './data/beds-by-hospital-timeseries.csv', './data/beds-total-timeseries.csv')
 }
 
 function convertTime(time){
