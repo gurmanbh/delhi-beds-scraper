@@ -1,5 +1,5 @@
 const covidDataURL = 'https://coronabeds.jantasamvad.org/covid-info.js'
-const covidFacilitiesURL = 'https://coronabeds.jantasamvad.org/covid-facilities.js'
+// const covidFacilitiesURL = 'https://coronabeds.jantasamvad.org/covid-facilities.js'
 
 const io = require('indian-ocean')
 const time = require('d3-time-format')
@@ -11,18 +11,18 @@ const fetchData = require('./lib/getUrl');
 const combine = require('./lib/combine');
 
 
-const names = ['beds', 'icu_beds_without_ventilator', 'noncovid_icu_beds', 'ventilators', 'covid_icu_beds']
+const names = ['beds', 'icu_beds_without_ventilator', 'noncovid_icu_beds', 'ventilators', 'covid_icu_beds', 'oxygen_left_for']
 const run = async() => {
 	const covidData = await (fetchData(covidDataURL, 'gnctd_covid_data'))
-	const covidFacilities = await (fetchData(covidFacilitiesURL, 'gnctd_covid_facilities_data'))
 
 	const beds = covidData.beds
 	const icu_beds_without_ventilator = covidData.icu_beds_without_ventilator
 	const noncovid_icu_beds = covidData.noncovid_icu_beds
 	const ventilators = covidData.ventilators
 	const covid_icu_beds = covidData.covid_icu_beds
+	const oxygen_left_for = covidData.oxygen_left_for
 
-	const mergedData = await merged([beds, icu_beds_without_ventilator, noncovid_icu_beds, ventilators, covid_icu_beds])
+	const mergedData = await merged([beds, icu_beds_without_ventilator, noncovid_icu_beds, ventilators, covid_icu_beds, oxygen_left_for])
 	writeCSV(mergedData, covidData.last_updated_at)
 }
 
