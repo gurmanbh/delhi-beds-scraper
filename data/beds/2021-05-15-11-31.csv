@@ -1,0 +1,224 @@
+name,beds_total,beds_occupied,beds_vacant,type,last_updated_at,icu_beds_without_ventilator_total,icu_beds_without_ventilator_occupied,icu_beds_without_ventilator_vacant,ventilators_total,ventilators_occupied,ventilators_vacant,covid_icu_beds_total,covid_icu_beds_occupied,covid_icu_beds_vacant,oxygen_left_for_days,oxygen_left_for_hours,noncovid_icu_beds_total,noncovid_icu_beds_occupied,noncovid_icu_beds_vacant
+Aashlok Hospital,22,22,0,Private,2021-05-14-17-20,1,1,0,4,4,0,5,5,0,0,8,,,
+AASTHA HOSPITAL,40,36,4,Private,2021-05-15-09-41,8,7,1,2,2,0,10,9,1,0,7,2,2,0
+Acharyashree Bhikshu Govt. Hospital,150,49,101,Delhi Government,2021-05-15-09-30,9,9,0,4,4,0,13,13,0,0,18,,,
+AIIMS Jhajjar,400,302,98,Central Government,2021-05-15-10-16,,,,100,100,0,100,100,0,0,23,,,
+AIIMS Main Delhi,302,185,117,Central Government,2021-05-15-11-29,29,29,0,43,35,8,72,64,8,0,12,72,43,29
+"AIIMS, Trauma Delhi",294,271,23,Central Government,2021-05-15-05-26,,,,71,69,2,71,69,2,,,,,
+"Akash Healthcare, Dwarka",261,261,0,Private,2021-05-15-09-15,14,14,0,40,40,0,54,54,0,0,10,17,17,0
+Alshifa Hospital,50,46,4,Private,2021-05-15-09-25,16,14,2,3,3,0,19,17,2,1,13,,,
+AMAR LEELA HOSPITAL PVT LTD,30,18,12,Private,2021-05-15-10-57,,,,,,,,,,1,12,8,5,3
+Ambedkar Nagar hospital,300,95,205,Delhi Government,2021-05-15-10-57,,,,,,,,,,1,0,,,
+Angel Agasta Multispeciality Hospital,10,10,0,Private,2021-05-15-09-20,1,1,0,,,,1,1,0,0,13,,,
+"Ansari Hospital, Sagarpur",40,28,12,Private,2021-05-15-11-25,3,3,0,2,2,0,5,5,0,0,23,,,
+"Apex City Hospital, West Vinod Nagar",28,20,8,Private,2021-05-15-07-21,4,4,0,,,,4,4,0,0,3,4,4,0
+Apollo Spectra Hospitals ( Unit of Apollo Specialty Hospitals PVT.LTD,20,0,20,Private,2021-05-15-08-49,,,,3,0,3,3,0,3,1,8,,,
+Ardent Ganpati,31,9,22,Private,2021-05-15-10-41,7,6,1,,,,7,6,1,,,,,
+ARK Hospital,30,13,17,Private,2021-05-13-08-02,5,3,2,,,,5,3,2,1,4,20,0,20
+Arogya Hospital,30,21,9,Private,2021-05-15-10-24,10,9,1,,,,10,9,1,0,21,,,
+Arya Hospital,24,20,4,Private,2021-05-15-10-36,8,8,0,2,2,0,10,10,0,0,10,,,
+Ashray Medical Centre,12,3,9,Private,2021-05-15-11-20,,,,,,,,,,1,23,,,
+Asian Multispeciality Hospital,15,0,15,Private,2021-05-15-09-42,,,,,,,,,,4,0,,,
+Astha Hospital,10,1,9,Private,2021-05-15-09-39,,,,,,,,,,,,10,0,10
+"Ayushman Hospital, Dwarka",118,118,0,Private,2021-05-15-10-05,23,23,0,7,7,0,30,30,0,0,5,,,
+"B.M. Gupta Hospital, Uttam Nagar",70,63,7,Private,2021-05-15-08-18,19,19,0,1,1,0,20,20,0,0,8,,,
+Balak Ram Hospital,100,1,99,Delhi Government,2021-05-15-08-12,,,,,,,,,,2,0,,,
+"Bansal Global Hospital, Jahangirpuri",60,26,34,Private,2021-05-15-08-25,9,9,0,1,1,0,10,10,0,0,7,1,0,1
+"Bansal Hospital & Research Centre, New Friends Colony",40,34,6,Private,2021-05-15-07-17,8,6,2,2,2,0,10,8,2,,,,,
+Bara Hindurao Hospital,250,208,42,Central Government,2021-05-15-09-50,,,,10,10,0,10,10,0,1,15,,,
+Base Hospital Delhi Cantt,500,490,10,Central Government,2021-05-15-06-53,,,,50,50,0,50,50,0,1,12,,,
+Batra Hospital,300,200,100,Private,2021-05-15-11-16,18,18,0,20,20,0,38,38,0,0,23,12,12,0
+"Bensups Hospital, Dwarka",40,23,17,Private,2021-05-15-11-28,12,12,0,3,3,0,15,15,0,1,2,,,
+BH SALVAS HOSPITAL,40,30,10,Private,2021-05-15-08-49,7,7,0,1,1,0,8,8,0,0,8,5,5,0
+"Bhagat Chandra Hospital, Mahavir Enclave, Dwarka",81,81,0,Private,2021-05-15-07-40,23,23,0,5,5,0,28,28,0,0,12,,,
+"Bhagwan Mahavir Hospital, Madhuban Chowk",40,30,10,Private,2021-05-15-10-02,10,10,0,1,1,0,11,11,0,0,7,,,
+"Bhagwati Hospital, Rohini",130,53,77,Private,2021-05-15-10-32,13,12,1,2,2,0,15,14,1,0,7,,,
+"Bhatia Global Hospital, Paschim Vihar",36,28,8,Private,2021-05-15-09-54,8,8,0,,,,8,8,0,0,8,,,
+Bimla Devi Hospital,27,11,16,Private,2021-05-15-10-19,,,,,,,,,,2,0,6,6,0
+"BLK Hospital, Pusa Road",285,242,43,Private,2021-05-15-11-30,68,68,0,7,7,0,75,75,0,1,0,69,60,9
+"Brahm Shakti Hospital, Budh Vihar",80,68,12,Private,2021-05-15-08-23,10,10,0,1,1,0,11,11,0,1,3,,,
+Burari Hospital,370,185,185,Delhi Government,2021-05-15-10-33,40,40,0,30,30,0,70,70,0,1,2,,,
+C M PATEL HOSPITAL,15,8,7,Private,2021-05-14-16-17,,,,,,,,,,2,23,,,
+CAREWELL MEDICAL CENTRE,8,2,6,Private,2021-05-15-08-22,,,,,,,,,,0,12,,,
+CBR Hospital,25,10,15,Private,2021-05-14-11-57,3,3,0,,,,3,3,0,1,7,,,
+"CD Global Hospital, Najafgarh Road",40,13,27,Private,2021-05-15-09-35,8,8,0,1,1,0,9,9,0,0,4,,,
+Central Hospital,31,24,7,Private,2021-05-15-10-05,4,4,0,4,4,0,8,8,0,0,3,,,
+Covid care and treatment centre Gurdwara Rakab ganj,300,126,174,Delhi Government,2021-05-14-21-29,,,,,,,,,,1,2,,,
+Cronus Multi speciality Hospital,18,18,0,Private,2021-05-15-07-06,5,5,0,,,,5,5,0,1,8,,,
+"Cygnus MLS, Rama Vihar",70,67,3,Private,2021-05-15-09-39,19,19,0,5,5,0,24,24,0,0,3,,,
+"Cygnus Sonia Hospital, Nangloi",68,63,5,Private,2021-05-15-10-09,26,25,1,5,5,0,31,30,1,0,3,,,
+Deen Dayal Upadhyay hospital,500,367,133,Delhi Government,2021-05-15-07-35,200,175,25,50,48,2,250,223,27,0,22,33,22,11
+Deep Chand Bandhu,230,173,57,Delhi Government,2021-05-15-10-11,67,67,0,14,14,0,81,81,0,0,6,,,
+Delhi global hospital,14,5,9,Private,2021-05-15-10-33,,,,,,,,,,1,16,,,
+Delhi Golden Hospital,15,0,15,Private,2021-05-15-09-58,,,,,,,,,,1,1,,,
+"Delhi Heart & Lung Institute, Pachkuian Road",73,69,4,Private,2021-05-15-11-30,22,22,0,5,5,0,27,27,0,0,20,12,12,0
+Delhi multi speciality hospital,11,3,8,Private,2021-05-15-07-06,,,,,,,,,,1,15,,,
+"Dharamshila Narayana Hosp., Vasundhra Enclave",160,90,70,Private,2021-05-15-09-55,13,13,0,5,5,0,18,18,0,0,20,5,5,0
+"Dharamvir Solanki Hospital, Rohini",34,17,17,Private,2021-05-15-10-13,9,8,1,2,1,1,11,9,2,0,4,,,
+Divine Multispeciality Hospital and Cancer Centre,35,23,12,Private,2021-05-14-12-05,24,17,7,6,6,0,30,23,7,0,9,,,
+"Divya Prastha Hospital, RZ-37, Opposite Bagh Wala School, Main Road, Palam Colony, New Delhi 45",85,67,18,Private,2021-05-15-11-00,10,10,0,2,2,0,12,12,0,1,15,,,
+Dr Baba Saheb Ambedkar Hospital,400,358,42,Delhi Government,2021-05-15-09-24,170,168,2,30,30,0,200,198,2,0,23,,,
+Dr Rakesh Multispeciality Hospital,15,13,2,Private,2021-05-14-10-06,5,5,0,1,1,0,6,6,0,1,0,,,
+"Dr. Chaudhary Moral Hospital, Yamuna Vihar",36,12,24,Private,2021-05-15-10-11,,,,,,,,,,0,6,,,
+East Delhi Medical Centre Mansarover Park,40,31,9,Private,2021-05-15-09-48,10,10,0,,,,10,10,0,0,5,,,
+Eden Hospital,16,12,4,Private,2021-05-14-10-59,,,,,,,,,,0,23,,,
+Ekansh Hospital,8,2,6,Private,2021-05-15-11-09,,,,,,,,,,,,,,
+ESIC Hospital Jhilmil,65,29,36,Central Government,2021-05-15-10-39,,,,5,5,0,5,5,0,3,0,,,
+ESIC hospital Okhla,233,154,79,Central Government,2021-05-15-09-43,,,,10,10,0,10,10,0,0,18,,,
+"Fortis Escorts Heart Institute, Okhla",112,112,0,Private,2021-05-15-10-50,55,55,0,5,5,0,60,60,0,2,0,16,11,5
+"Fortis Hospital, Shalimar Bagh",230,181,49,Private,2021-05-15-09-33,33,33,0,27,27,0,60,60,0,1,23,8,8,0
+"Fortis SS Hospital, Vasant Kunj",106,94,12,Private,2021-05-15-08-04,8,8,0,12,12,0,20,20,0,1,23,,,
+"Gandhi Nursing Home, Uttam Nagar",89,89,0,Private,2021-05-15-11-04,33,33,0,1,1,0,34,34,0,1,10,8,8,0
+"Garg Hospital, Karkardooma",36,15,21,Private,2021-05-15-11-13,4,4,0,,,,4,4,0,0,8,,,
+"Goyal Hospital & Urology Centre, Krishna Nagar",70,67,3,Private,2021-05-15-10-57,12,12,0,5,5,0,17,17,0,1,15,8,8,0
+"Goyal Hospital, Paschim Vihar",24,18,6,Private,2021-05-15-10-59,7,5,2,,,,7,5,2,0,4,,,
+GTB Hospital,900,561,339,Delhi Government,2021-05-15-09-29,392,310,82,158,128,30,550,438,112,1,2,,,
+Gupta Multispecialty Hospital,14,4,10,Private,2021-05-14-10-51,,,,,,,,,,1,0,,,
+"Gupta Multispecialty Hospital, Vivek Vihar",40,20,20,Private,2021-05-15-09-28,6,6,0,,,,6,6,0,0,6,,,
+GURU NANAK EYE CENTRE ( ANNEXED TO LOK NAYAK HOSPITAL),198,42,156,Delhi Government,2021-05-15-10-03,,,,,,,,,,2,0,,,
+"HAHC Hospital, Hamdard Nagar",376,79,297,Private,2021-05-15-10-55,15,15,0,10,10,0,25,25,0,0,12,6,1,5
+HANDA NURSING HOME,12,5,7,Private,2021-05-15-10-41,,,,,,,,,,1,14,,,
+Hardik Hospital,10,2,8,Private,2021-05-15-09-51,,,,,,,,,,1,5,,,
+Highland Care Multispeciality Hospital,30,10,20,Private,2021-05-14-10-31,2,2,0,2,2,0,4,4,0,0,14,,,
+Hira’s Multispeciality Hospital,15,1,14,Private,2021-05-15-09-07,,,,,,,,,,0,10,,,
+"Holy Family Hospital, Okhla",370,340,30,Private,2021-05-15-09-31,10,10,0,44,44,0,54,54,0,1,0,18,18,0
+"IBS Hospital, Lajpat Nagar",39,34,5,Private,2021-05-15-11-04,10,8,2,3,3,0,13,11,2,0,3,,,
+"Indian spinal injury centre,Vasant Kunj",160,144,16,Private,2021-05-15-09-54,3,3,0,11,11,0,14,14,0,0,5,12,8,4
+"Indira Gandhi Hospital, Dwarka",250,11,239,Delhi Government,2021-05-15-08-54,,,,,,,,,,8,0,,,
+"INDRAPRASTHA APOLLO HOSPITAL, SARITA VIHAR",470,470,0,Private,2021-05-15-10-02,88,88,0,12,12,0,100,100,0,0,16,65,65,0
+INDUS VALLEY HOSPITALS,50,25,25,Private,2021-05-15-10-15,11,9,2,1,0,1,12,9,3,1,8,,,
+"Irene Hospital, Kalkaji",35,35,0,Private,2021-05-15-11-04,5,5,0,2,2,0,7,7,0,0,3,,,
+"Ishan Hospital, Rohini",13,7,6,Private,2021-05-15-11-20,5,3,2,,,,5,3,2,0,15,,,
+"Jain Hospital, Vikas Marg Extn.",42,29,13,Private,2021-05-15-10-02,13,10,3,,,,13,10,3,0,10,2,2,0
+"Jaipur Golden Hospital, Rohini",220,206,14,Private,2021-05-15-09-10,50,50,0,15,15,0,65,65,0,0,20,10,10,0
+Janakpuri Super Speciality Hospital Society,50,29,21,Delhi Government,2021-05-15-09-30,18,18,0,,,,18,18,0,1,12,,,
+"Jeevan Anmol Hospital, Mayur Vihar Phase-I",60,33,27,Private,2021-05-15-10-55,8,8,0,2,2,0,10,10,0,0,12,,,
+"Jeewan Mala Hospital, Rohtak Road",60,58,2,Private,2021-05-15-10-43,28,28,0,8,8,0,36,36,0,0,12,6,6,0
+"Jeewan Moti Khera Hospital, Nangloi",30,9,21,Private,2021-05-15-09-58,4,3,1,1,1,0,5,4,1,1,23,,,
+"Jeewan Nursing Home, Pusa Road",37,33,4,Private,2021-05-15-10-56,7,7,0,,,,7,7,0,0,6,7,7,0
+Jyoti Nursing Home,22,16,6,Private,2021-05-15-10-46,,,,,,,,,,1,11,,,
+K K Surgical & Maternity Centre,40,0,40,Private,2021-05-15-10-16,,,,,,,,,,,,,,
+"Kalra Hospital, Dwarka",30,12,18,Private,2021-05-15-09-33,,,,,,,,,,0,8,6,0,6
+"Kalra Hospital, Kirti Nagar",93,85,8,Private,2021-05-15-09-24,29,29,0,3,3,0,32,32,0,0,12,29,29,0
+Kalyani Hospital,35,35,0,Private,2021-05-15-11-03,8,8,0,1,1,0,9,9,0,3,0,,,
+"Kapil Multispecialty Hospital, Nathupura",40,28,12,Private,2021-05-15-09-48,4,4,0,1,1,0,5,5,0,1,0,,,
+KAPOOR MEDICAL CENTRE,19,11,8,Private,2021-05-15-09-42,,,,,,,,,,0,19,,,
+Khandelwal Hospital And Urology Center,30,15,15,Private,2021-05-15-10-23,6,4,2,,,,6,4,2,0,8,,,
+khanna hospital,50,21,29,Private,2021-05-15-10-35,7,6,1,1,0,1,8,6,2,0,4,,,
+"Konark Hospital, Nangloi",43,15,28,Private,2021-05-15-09-42,,,,,,,,,,1,4,16,16,0
+"Kosmos Super Specialty Hospital, Vikas Marg Extn.",26,20,6,Private,2021-05-15-10-47,6,6,0,,,,6,6,0,0,20,,,
+"Kukreja Hospital and Heart Centre, Rajouri Garden",96,56,40,Private,2021-05-15-10-09,26,26,0,,,,26,26,0,0,16,10,10,0
+"Kukreja Hospital, Mayur Vihar",25,13,12,Private,2021-05-15-07-59,5,5,0,,,,5,5,0,0,7,,,
+"Lalita Hospital, Begumpur",40,20,20,Private,2021-05-15-10-32,3,2,1,1,1,0,4,3,1,,,,,
+LHMC,370,257,113,Central Government,2021-05-15-09-49,34,34,0,16,16,0,50,50,0,1,4,27,22,5
+Life RAYS HOSPITAL,12,3,9,Private,2021-05-14-11-00,,,,,,,,,,2,20,,,
+Lifeline Hospital,50,22,28,Private,2021-05-15-11-21,5,2,3,2,1,1,7,3,4,0,8,,,
+Lok Nayak Hospital,1750,754,996,Delhi Government,2021-05-15-10-07,450,250,200,300,260,40,750,510,240,0,12,,,
+"Madhukar Rainbow Children Hosp., Malviya Nagar",71,17,54,Private,2021-05-15-09-26,24,3,21,2,2,0,26,5,21,0,7,20,19,1
+Maha Durga Charitable Trust Hospital,160,125,35,Private,2021-05-15-09-13,22,22,0,8,8,0,30,30,0,1,12,,,
+"Maharaja Agarsain Multispecialty Hospital, Narela",35,26,9,Private,2021-05-15-09-52,4,4,0,,,,4,4,0,2,5,,,
+"Maharaja Agrasen Hospital, Dwarka",47,47,0,Private,2021-05-14-14-51,,,,12,12,0,12,12,0,0,10,4,4,0
+"Maharaja Agrasen Hospital, Punjabi Bagh",250,197,53,Private,2021-05-15-07-39,64,64,0,8,8,0,72,72,0,1,6,20,20,0
+Makkar Multispeciality Hospital,44,27,17,Private,2021-05-15-10-04,11,11,0,,,,11,11,0,,,,,
+Malik Radix Hospital,47,30,17,Private,2021-05-15-08-10,13,13,0,1,1,0,14,14,0,0,12,,,
+"MANIPAL HOSPITAL, DWARKA",219,219,0,Private,2021-05-15-09-17,26,26,0,14,14,0,40,40,0,0,12,20,20,0
+"Mansaram Hospital, Nangloi",42,16,26,Private,2021-05-15-09-55,9,9,0,1,1,0,10,10,0,1,2,,,
+"Mata Chanan Devi Hospital, Janakpuri",200,164,36,Private,2021-05-15-11-30,36,36,0,12,12,0,48,48,0,0,10,,,
+"Mata Roop Rani Maggo Hospital, Uttam Nagar",80,70,10,Private,2021-05-15-10-11,9,9,0,7,7,0,16,16,0,0,5,,,
+Max East/West Block,255,174,81,Private,2021-05-15-09-23,38,38,0,10,10,0,48,48,0,0,6,10,10,0
+"Max Smart Gujarmal Modi hospital ,Saket",250,204,46,Private,2021-05-15-10-40,,,,50,50,0,50,50,0,0,11,,,
+"MAX SS HOSPITAL, PATPARGANJ",346,301,45,Private,2021-05-15-10-29,100,100,0,40,40,0,140,140,0,0,12,18,18,0
+"Max SS Hospital, Shalimar Bagh",280,280,0,Private,2021-05-15-10-37,62,62,0,30,30,0,92,92,0,1,18,,,
+"Medeor Hospital, Qutab Instl. Area",55,40,15,Private,2021-05-15-09-15,8,8,0,4,4,0,12,12,0,0,20,8,6,2
+"Medstar Hospital, Paschim Vihar",32,31,1,Private,2021-05-15-10-11,13,13,0,1,1,0,14,14,0,0,4,,,
+"Metro Hospital, Lajpat Nagar",33,31,2,Private,2021-05-15-09-50,14,14,0,,,,14,14,0,0,13,,,
+"Metro Hospital, Preet Vihar",110,89,21,Private,2021-05-14-23-24,18,18,0,4,4,0,22,22,0,1,10,16,16,0
+"MGS Hospital, Punjabi Bagh",80,79,1,Private,2021-05-15-10-27,31,31,0,7,7,0,38,38,0,0,14,2,2,0
+"Mool Chand Khairati Ram Hospital, Lajpat Nagar",144,144,0,Private,2021-05-15-11-08,13,13,0,19,19,0,32,32,0,0,3,9,9,0
+"National Heart Institute, East of Kailash",90,90,0,Private,2021-05-15-10-00,25,25,0,7,7,0,32,32,0,0,12,10,8,2
+National Institute of TB and Respiratory Diseases (LRS TB),77,61,16,Central Government,2021-05-14-09-35,,,,,,,,,,3,0,6,4,2
+"Navjeevan Hospital, Pitampura",90,80,10,Private,2021-05-15-08-47,7,7,0,3,3,0,10,10,0,0,6,,,
+Nestiva Hospital,20,17,3,Private,2021-05-15-10-16,2,2,0,2,0,2,4,2,2,0,10,,,
+Nidaan Hospital,20,11,9,Private,2021-05-15-01-51,5,5,0,2,1,1,7,6,1,0,23,,,
+Nijhara Hospital,7,3,4,Private,2021-05-15-07-24,,,,,,,,,,0,5,,,
+Nirmal Hospital,20,7,13,Private,2021-05-15-10-18,,,,,,,,,,0,12,,,
+Nirmala Hospital,23,22,1,Private,2021-05-15-02-03,2,2,0,1,1,0,3,3,0,0,15,,,
+Nirogi Charitable and Medical Research Trust,20,0,20,Private,2021-05-15-11-09,,,,,,,,,,3,20,,,
+"NKS Hospital, Gulabi Bagh",82,34,48,Private,2021-05-15-11-01,23,23,0,2,2,0,25,25,0,0,4,,,
+Northern Railway,200,145,55,Central Government,2021-05-15-09-54,,,,18,18,0,18,18,0,0,12,12,10,2
+Oncoplus Hospital,43,36,7,Private,2021-05-14-16-48,17,17,0,5,5,0,22,22,0,0,9,,,
+"Panchsheel Hospital, Yamuna Vihar",40,33,7,Private,2021-05-15-11-15,8,7,1,,,,8,7,1,0,6,,,
+"Park Hospital, Meera Bagh",110,64,46,Private,2021-05-15-10-55,35,35,0,5,5,0,40,40,0,0,14,10,10,0
+Parmeshwari Devi Hospital,18,12,6,Private,2021-05-15-10-05,1,1,0,,,,1,1,0,,,,,
+Patel Hospital,10,8,2,Private,2021-05-14-12-38,,,,,,,,,,0,4,,,
+Pentamed Hospital,40,40,0,Private,2021-05-14-12-52,2,1,1,6,6,0,8,7,1,1,0,2,2,0
+"PGH Hospital, Vikas Nagar",44,12,32,Private,2021-05-15-09-39,6,4,2,1,1,0,7,5,2,0,12,2,0,2
+"Primus Super Specialty Hospital, Chanakyapuri",111,105,6,Private,2021-05-15-08-24,59,59,0,2,2,0,61,61,0,0,18,21,14,7
+Pt.RRM Hospital,15,4,11,Private,2021-05-14-14-45,1,0,1,1,1,0,2,1,1,1,2,,,
+"Pushpanjali Medical Centre, Pushpanjali Enclave, Vikas Marg Ext.",35,29,6,Private,2021-05-15-09-07,9,9,0,1,1,0,10,10,0,0,8,5,4,1
+"Pushpawati Singhania Hospital, Saket",168,141,27,Private,2021-05-15-11-10,28,28,0,10,10,0,38,38,0,0,6,9,9,0
+Rajan Babu Institute of Pulmonary  Medicine and tuberculosis,100,40,60,Central Government,2021-05-15-09-20,,,,,,,,,,0,12,,,
+Rajeev Gandhi Super Speciality Hospital,500,272,228,Delhi Government,2021-05-15-10-59,125,72,53,200,200,0,325,272,53,0,4,,,
+"Rajiv Gandhi Cancer Institute & RC, Rohini*",230,210,20,Private,2021-05-15-10-19,35,35,0,5,5,0,40,40,0,0,20,11,11,0
+RAM LAL KUNDAN LAL ORTHOPAEDIC HOSPITAL,15,4,11,Private,2021-05-14-12-15,3,0,3,,,,3,0,3,1,23,,,
+Ram Manohar Lohia Hospital,323,278,45,Central Government,2021-05-15-07-54,,,,28,28,0,28,28,0,1,4,,,
+"Rathi Hospital, Najafgarh",80,49,31,Private,2021-05-15-11-05,21,21,0,4,4,0,25,25,0,0,7,,,
+Rescue Hospital,38,37,1,Private,2021-05-15-10-36,18,18,0,,,,18,18,0,0,13,4,3,1
+"Revive Hospital,tilak nagar",28,28,0,Private,2021-05-15-09-26,14,14,0,1,1,0,15,15,0,0,9,2,2,0
+"RLKC Metro Hospital, Naraina",70,54,16,Private,2021-05-15-10-24,17,17,0,1,1,0,18,18,0,1,17,15,15,0
+ROSEWOOD HOSPITAL,25,11,14,Private,2021-05-15-09-33,4,4,0,,,,4,4,0,0,12,,,
+Royal Kalindi Hospital,26,24,2,Private,2021-05-15-10-18,2,2,0,1,1,0,3,3,0,0,2,,,
+RS Grover Memorial Hospital,24,5,19,Private,2021-05-15-08-04,4,4,0,,,,4,4,0,0,8,,,
+Safdarjung Hospital,421,238,183,Central Government,2021-05-15-08-57,,,,80,80,0,80,80,0,1,0,,,
+Sai Charitable Dispensary,25,9,16,Private,2021-05-15-08-36,,,,,,,,,,0,10,,,
+SAMA HOSPITAL,32,27,5,Private,2021-05-15-09-15,,,,4,3,1,4,3,1,0,16,,,
+"Samar Hospital, Dwarka",35,17,18,Private,2021-05-15-10-14,5,3,2,1,1,0,6,4,2,,,,,
+Sanjay Gandhi Memorial Hospital,150,95,55,Delhi Government,2021-05-15-10-32,,,,20,18,2,20,18,2,0,12,6,2,4
+"Sanjeevan Medical Res. , Daryaganj",40,20,20,Private,2021-05-15-09-24,,,,4,4,0,4,4,0,1,20,,,
+Sant Nirankari Covid Care and Treatment centre burari,1000,157,843,Delhi Government,2021-05-14-10-52,,,,,,,,,,,,,,
+"Sant Parmanand Hospital, Civil Lines",60,40,20,Private,2021-05-15-10-56,15,15,0,,,,15,15,0,0,15,6,2,4
+Sant Soham Hospital,15,7,8,Private,2021-05-15-08-29,,,,,,,,,,0,12,,,
+"Santom Hospital, Prashant Vihar",105,76,29,Private,2021-05-15-10-47,42,42,0,8,8,0,50,50,0,0,10,,,
+Sardar Vallabhbhai Patel Covid hospital (DRDO),500,303,197,Central Government,2021-05-15-09-30,,,,128,128,0,128,128,0,1,12,,,
+Saroj Super Speciality Hospital,150,145,5,Private,2021-05-15-11-10,35,35,0,28,28,0,63,63,0,0,17,,,
+SATYA MULTISPECIALITY HOSPITAL,18,17,1,Private,2021-05-15-11-26,3,3,0,,,,3,3,0,0,12,,,
+"Satyabhama Hospital, Nangloi",42,39,3,Private,2021-05-15-09-35,29,28,1,3,3,0,32,31,1,0,3,5,5,0
+Satyawati Harishchand Hsopital,200,145,55,Delhi Government,2021-05-15-10-11,12,12,0,3,3,0,15,15,0,0,7,,,
+Savitri Hospital,25,20,5,Private,2021-05-15-09-40,13,10,3,,,,13,10,3,0,6,,,
+SCI International Hospital,12,12,0,Private,2021-05-15-09-36,,,,,,,,,,1,12,,,
+"Sehgal Neo Hospital, Paschim Vihar",80,68,12,Private,2021-05-15-09-48,13,13,0,,,,13,13,0,0,2,,,
+"Shakuntala Nursing Home, West Sagarpur",30,23,7,Private,2021-05-15-09-31,5,5,0,,,,5,5,0,,,,,
+"Shanti Mukand Hospital, Vikas Marg Extn.",110,69,41,Private,2021-05-15-09-32,16,16,0,8,8,0,24,24,0,0,6,25,20,5
+"Shree Agarsain International Hospital, Rohini- 22",192,158,34,Private,2021-05-15-11-04,42,42,0,25,25,0,67,67,0,3,7,16,16,0
+Shree Hospital,20,16,4,Private,2021-05-15-08-09,,,,,,,,,,0,20,,,
+"Shri Ram Singh Hospital, Krishna Nagar",52,11,41,Private,2021-05-15-09-57,6,6,0,1,1,0,7,7,0,0,16,,,
+Shrine Hospital,17,4,13,Private,2021-05-15-09-13,3,2,1,,,,3,2,1,0,11,,,
+SINGHAL HOSPITAL,27,11,16,Private,2021-05-14-15-33,7,6,1,,,,7,6,1,0,10,,,
+Singhal Medical  Centre,20,12,8,Private,2021-05-14-13-00,,,,,,,,,,1,6,,,
+Sir Ganga Ram City Hospital,96,78,18,Private,2021-05-15-09-15,1,1,0,15,15,0,16,16,0,0,14,,,
+Sir Ganga Ram Hospital,570,570,0,Private,2021-05-15-10-09,83,83,0,74,74,0,157,157,0,0,8,95,53,42
+"Sitaram Bhartia Institute of Science & Res., Qutab Institutional Area",41,25,16,Private,2021-05-15-09-10,9,9,0,,,,9,9,0,0,12,2,2,0
+"SMS Hospital, Gagan Vihar",36,10,26,Private,2021-05-15-08-35,4,3,1,1,1,0,5,4,1,0,9,,,
+"Sri Balaji Action Medical Inst., Paschim Vihar",225,206,19,Private,2021-05-15-09-59,92,92,0,8,8,0,100,100,0,1,15,35,35,0
+"St. Stephens Hospital, Tis Hazari",336,198,138,Private,2021-05-15-10-08,24,24,0,8,8,0,32,32,0,0,10,8,8,0
+Sunrise Hospital,14,4,10,Private,2021-05-15-10-44,,,,,,,,,,,,,,
+Sunrise Hospital (A Unit of Trinity Sunrise Healthcare Pvt.Ltd.,22,7,15,Private,2021-05-15-10-40,1,1,0,3,2,1,4,3,1,0,8,,,
+"Surya Hospital, Krishna Nagar",40,25,15,Private,2021-05-15-11-21,5,5,0,,,,5,5,0,0,12,5,0,5
+SURYA KIRAN HOSPITAL,40,19,21,Private,2021-05-15-09-36,9,9,0,1,1,0,10,10,0,0,6,5,5,0
+Sushila Hospial,50,7,43,Private,2021-05-15-10-34,10,7,3,,,,10,7,3,0,16,,,
+Swami Dayanand,70,59,11,Central Government,2021-05-15-09-40,,,,,,,,,,0,8,,,
+Swasthik Hospital,30,6,24,Private,2021-05-15-11-17,7,5,2,1,0,1,8,5,3,0,8,,,
+"Tarak Hospital, Uttam Nagar",72,68,4,Private,2021-05-15-09-27,25,25,0,5,5,0,30,30,0,0,4,6,6,0
+Tilak Nagar CHC,64,11,53,Delhi Government,2021-05-15-08-48,,,,,,,,,,7,0,,,
+"Tirath Ram Shah Charitable Hospital, Civil Lines",136,126,10,Private,2021-05-15-09-47,14,14,0,2,2,0,16,16,0,1,7,23,5,18
+Triton Hospital,10,4,6,Private,2021-05-15-09-24,,,,,,,,,,0,5,12,7,5
+Tulsi Multispeciality Hospital & Critical Care Unit,40,6,34,Private,2021-05-15-10-37,1,0,1,1,1,0,2,1,1,0,14,,,
+TYAGI NURSING HOME,15,15,0,Private,2021-05-14-18-22,7,7,0,3,3,0,10,10,0,1,20,2,2,0
+"Universal Centre of Health services, Kalkaji",35,30,5,Private,2021-05-15-09-02,8,8,0,2,2,0,10,10,0,1,10,,,
+"Venkateshwar Hospital, Dwarka",225,225,0,Private,2021-05-15-08-19,48,48,0,8,8,0,56,56,0,0,9,,,
+"Vikas Hospital, Najafgarh",40,30,10,Private,2021-05-15-08-47,8,8,0,3,3,0,11,11,0,0,5,,,
+VIMHANS,180,160,20,Private,2021-05-15-08-34,82,82,0,48,48,0,130,130,0,0,8,,,
+World Brain Center Hospital,45,21,24,Private,2021-05-15-10-12,11,7,4,,,,11,7,4,0,12,,,
+All,25462,17129,8333,,2021-05-15-11-31,4071,3623,448,2236,2139,97,6307,5762,545,,,1027,811,216
+Bhagwan Mahavir Hospital,,,,Delhi Government,2021-05-15-10-19,,,,,,,,,,1,20,10,5,5
+Balaji Hospital,,,,,,,,,,,,,,,0,4,,,
