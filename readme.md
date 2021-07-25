@@ -1,6 +1,6 @@
 # Delhi beds scraper
 
-A node.js based scraper that pulls information from the [Delhi Government COVID website](https://coronabeds.jantasamvad.org/) every six hours, and stores in the `data/beds` folder in the repository.
+A node.js based scraper that pulls information from the [Delhi Government COVID website](https://coronabeds.jantasamvad.org/) every twelve hours, and stores in the `data/beds` folder in the repository.
 
 Combined time series for all hospitals is at `data/beds-by-hospital-timeseries.csv`. Combined time series for the entire city total is at `data/beds-total-timeseries.csv` 
 
