@@ -1,4 +1,5 @@
 name,beds_total,beds_occupied,beds_vacant,type,last_updated_at,icu_beds_without_ventilator_total,icu_beds_without_ventilator_occupied,icu_beds_without_ventilator_vacant,covid_icu_beds_total,covid_icu_beds_occupied,covid_icu_beds_vacant,oxygen_left_for_days,oxygen_left_for_hours,noncovid_icu_beds_total,noncovid_icu_beds_occupied,noncovid_icu_beds_vacant,ventilators_total,ventilators_occupied,ventilators_vacant
+ALL,8411,15,8396,,2021-01-01-05-30,893,1,892,2016,4,2012,,,3228,2300,928,1123,3,1120
 ALL,8943,225,8718,,2021-01-01-05-50,1394,30,1364,2774,51,2723,,,3437,2319,1118,1380,21,1359
 ALL,8883,248,8635,,2021-01-01-17-35,1396,35,1361,2776,56,2720,,,3434,2316,1118,1380,21,1359
 ALL,8924,282,8642,,2021-01-02-05-50,1396,37,1359,2776,62,2714,,,3434,2323,1111,1380,25,1355
